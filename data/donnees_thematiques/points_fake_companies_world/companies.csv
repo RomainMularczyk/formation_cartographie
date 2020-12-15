@@ -1,0 +1,101 @@
+id,company_name,latitude,longitude,type
+1,"Corkery, Stark and Wolff",27.974248,120.632896,retail
+2,Hettinger-O'Hara,10.108752,123.2710674,energy
+3,Feest Group,51.3842543,58.9999439,transport
+4,Turner Group,9.9847566,10.9510315,retail
+5,"Terry, Ward and Prohaska",60.0645803,30.4842001,banking
+6,Gorczany-Cruickshank,-7.6535289,110.6749978,transport
+7,Stanton-Jacobi,48.8610504,2.3237084,transport
+8,Tromp LLC,18.1821215,100.5746224,health
+9,"Eichmann, Gaylord and Grady",25.556716,110.016031,energy
+10,"Kiehn, Rowe and Wilkinson",53.2065166,5.8271439,retail
+11,"Harber, Bins and Nader",31.7579946,25.0792189,insurance
+12,Lehner-Mitchell,30.265327,108.705237,banking
+13,Lowe and Sons,43.438342,126.330439,transport
+14,"Nitzsche, Rau and McClure",15.6122706,-86.0784459,retail
+15,Tillman Inc,50.7113724,25.8291867,energy
+16,"Schmeler, Parisian and O'Reilly",-6.1306709,23.5966577,energy
+17,Orn-Hackett,-8.074933,112.6079459,banking
+18,"Metz, Hayes and Hilpert",-6.406039,106.899566,transport
+19,Bauch LLC,51.7211356,5.2985109,service
+20,Ankunding Inc,29.56492,121.52229,banking
+21,"Skiles, Wilderman and Lind",6.604594,-73.069241,retail
+22,Kirlin Inc,14.0206423,123.2983232,energy
+23,"Kreiger, Ritchie and Gulgowski",-6.906714,-78.25705,insurance
+24,Macejkovic Inc,-6.7745272,111.4484559,service
+25,"Boyer, Bernier and Pagac",56.6444907,14.224297,transport
+26,Schulist-Kertzmann,-7.0028587,108.2362691,energy
+27,Nicolas-Gaylord,45.8903748,-77.2672051,retail
+28,"Witting, Zboncak and Williamson",63.0074575,16.6640489,insurance
+29,Raynor-Greenholt,51.7318422,18.2051618,transport
+30,"Russel, Ferry and Ernser",-27.4561199,-53.9288773,banking
+31,Lakin and Sons,28.9261863,81.647344,retail
+32,McClure-Buckridge,29.344616,102.652483,banking
+33,Ortiz-Rau,48.6329614,35.2241571,energy
+34,Bailey-Prohaska,-12.3713805,-38.3852123,insurance
+35,Homenick-Boyle,45.2645197,-74.2176156,service
+36,Bernier-Armstrong,45.0725651,-93.3873133,health
+37,Gleichner-Schumm,9.823961,-84.927454,banking
+38,Wiza-Gerlach,45.6825301,14.1960581,energy
+39,"Schulist, Huels and Zboncak",9.2029332,11.2922884,health
+40,"Mohr, Rosenbaum and Heaney",40.2715286,44.633383,banking
+41,Von and Sons,44.0752881,39.0848844,energy
+42,Rath-Muller,43.4945737,5.8978018,retail
+43,"Williamson, Powlowski and Schmeler",15.5754812,120.7990105,insurance
+44,Quigley LLC,9.017718,-70.297951,transport
+45,Jacobi-VonRueden,31.8810103,35.219546,health
+46,"Sauer, Morar and Yost",56.5155642,64.631671,energy
+47,Prohaska Inc,8.3331847,123.8426301,energy
+48,Keebler-Jacobson,-2.416604,115.239098,transport
+49,Ebert Group,40.291843,97.045678,insurance
+50,"Veum, Fritsch and Hauck",30.8346,117.552738,banking
+51,"Kohler, McLaughlin and Boyle",-8.5361861,115.1444487,health
+52,Funk Inc,-23.144255,-64.325272,insurance
+53,Von-Will,56.8221532,43.9638201,transport
+54,Kub and Sons,15.767975,101.010223,retail
+55,"Purdy, Wolff and Parker",29.1416432,119.7889248,energy
+56,Franecki LLC,23.2033136,116.371665,transport
+57,"Cole, Rolfson and Leannon",13.7946714,5.2527741,banking
+58,Roob Group,40.5463267,22.2682863,health
+59,Kassulke and Sons,48.8383589,2.6618245,health
+60,Watsica Inc,41.5054085,-8.4697574,energy
+61,Stracke-Steuber,30.754014,113.820729,transport
+62,Rosenbaum LLC,37.8457328,139.2342041,insurance
+63,"Walsh, Stanton and Hegmann",47.09995,-55.76504,transport
+64,Wilderman-Abernathy,-28.3006117,-54.2673083,retail
+65,"Ondricka, Treutel and Boyer",65.5921449,22.168271,energy
+66,Senger-Marks,12.261245,121.990929,health
+67,Crist-Spencer,14.3705235,120.8168869,banking
+68,"Spinka, Wuckert and Bernhard",8.3375063,-82.5510469,insurance
+69,Jaskolski-Renner,52.9520735,27.8819494,insurance
+70,"Thiel, Ziemann and Robel",53.7721333,14.7790457,insurance
+71,Kuvalis-Gaylord,52.8056388,37.2283674,energy
+72,"Schmeler, Reichert and Doyle",-1.9296172,18.291137,retail
+73,Torphy-Treutel,-5.0731807,32.6913107,energy
+74,Batz-Feeney,-15.3765857,35.3356518,banking
+75,Trantow-Abernathy,47.8329451,30.2570494,transport
+76,"Klocko, Dickens and Eichmann",20.3609414,106.5584071,retail
+77,"Kutch, Beier and Bednar",14.5665378,121.1092186,retail
+78,"Greenholt, Schmitt and Macejkovic",37.177129,119.942275,energy
+79,Hackett-Shields,6.7496639,11.8036596,transport
+80,Bogisich Group,58.5785836,16.1948921,retail
+81,Watsica-Spencer,8.7603327,-70.1158113,insurance
+82,Bergnaum-Stehr,-18.3591857,-44.6254642,service
+83,Herman-Kautzer,-21.2105191,-65.2103256,service
+84,Kreiger LLC,43.865595,125.374217,retail
+85,Stoltenberg Group,48.0451251,30.8884315,service
+86,Reinger LLC,-31.43337,-64.2142976,energy
+87,Feest-Dooley,20.4463471,106.3365828,retail
+88,"Nitzsche, Treutel and Turner",41.2606416,-8.4347858,service
+89,"Wilderman, Nicolas and Stamm",-3.8008893,103.3587288,transport
+90,Rosenbaum Group,44.840524,82.353656,service
+91,"Swift, Fadel and Fadel",-15.3122723,-49.1166441,transport
+92,"Boyle, Torphy and Kertzmann",-6.6906402,-35.5000999,service
+93,"Bergnaum, Wyman and Torp",8.046425,124.933677,retail
+94,"Mann, Hodkiewicz and Stiedemann",9.17008,118.1872,service
+95,"Altenwerth, Littel and McClure",-32.5906095,27.8838873,banking
+96,Wehner-Kessler,52.5496772,13.3643415,service
+97,"Cruickshank, Yundt and O'Hara",3.991663,-73.766129,insurance
+98,Jacobs-Rohan,47.4031036,19.0922063,service
+99,Reichel Group,8.3500276,80.4484871,energy
+100,"Treutel, Schultz and Gleichner",8.5211284,126.121732,transport

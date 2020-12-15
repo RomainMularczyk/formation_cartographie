@@ -1,0 +1,5 @@
+*.ipynb_checkpoints/
+magrit/
+qgis/
+icons/
+fonds_cartes/polygons_boundaries_world/
